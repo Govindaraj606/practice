@@ -37,7 +37,7 @@ const Home = () => {
     <div className="part1">
         <img src={hero} alt=""/>
         <div className="text1">
-        <h1 className="f-style1">Healthy Made <br/> Delicious Cake</h1>
+        <h1 className="f-style1"><span>Healthy Made </span> <span>Delicious Cake</span></h1>
         <button className="btn">ORDER NOW</button>
         </div>
     </div>
